@@ -1,4 +1,4 @@
-### Hi there 👋
+# 👋  Hi, I'm Anh Nguyen Sieu from :vietnam:
 
 <!--
 **sieunhantanbao/sieunhantanbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👯 I'm working for [NashTech](https://www.nashtechglobal.com) company.
+
+# Favorite languages and tools
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sieunhantanbao&hide=css,html,powershell,elm,php,javascript,xslt,smarty,pascal&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="Anh Nguyen Sieu" />
+
+# GitHub contributions
+<img src="https://github-readme-stats.vercel.app/api?username=sieunhantanbao&show_icons=true&count_private=true&theme=algolia" alt="Nguyen Sieu Anh" />
